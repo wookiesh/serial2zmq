@@ -1,0 +1,12 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "/Users/joseph/workspace/serial2zmq"
+        }
+    ],
+    "settings": {
+        "python_interpreter_path": "/home/joseph/.virtualenvs/serial2zmq/bin/python"
+    }
+}

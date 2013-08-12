@@ -1,5 +1,4 @@
 import serial, argparse, socket, zmq, threading, logging
-import q
 
 class SerialThread(threading.Thread):
 
